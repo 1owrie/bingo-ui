@@ -1,0 +1,11 @@
+
+
+
+node_modules
+**/build
+**/dist
+
+.turbo
+
+pnpm-lock.yaml
+yarn.lock
